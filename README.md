@@ -1,2 +1,2 @@
-# CalculatorJava
+# Calculator Java
 Calculator in Java
